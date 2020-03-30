@@ -12,4 +12,4 @@ Node.js, ReactJS, React Native, Postgres, Sequelize.
 Project created to develop new skills with the most current and incredible technologies. This project includes: authentication, authentication middleware, validations, exception handling, sending files (avatar), pagination, sending emails, notifications, unit tests and integrated tests.
 
 
-Node.js. ReactJS, React Native, JWT, Multer, Postgres, MongoDB, Redis, Nodemailer, React Hooks, Redux, Redux-Saga, Reactotron, Jest. 
+Node.js. ReactJS, React Native, JWT, Sequelize, Postgres, MongoDB, Redis, Multer, Nodemailer, React Hooks, Redux, Redux-Saga, Reactotron, Jest. 
