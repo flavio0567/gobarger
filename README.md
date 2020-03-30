@@ -1,2 +1,2 @@
-![alt text](https://user-images.githubusercontent.com/30816078/77945271-3d18d880-7275-11ea-842e-1dcada7838d0.png | width=50)
 
+![alt text](https://user-images.githubusercontent.com/30816078/77945877-3c347680-7276-11ea-82d8-0e87c0c13e41.png)
