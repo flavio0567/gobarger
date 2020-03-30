@@ -4,7 +4,7 @@
 **GoBarber**
 A complete barber shop scheduling app. 
 
-Node.js, ReactJS, React Native, Postgres, Sequelize.
+Node.js, ReactJS, React Native.
 ---
 
 **About the project**
@@ -19,13 +19,6 @@ Node.js. ReactJS, React Native, JWT, Sequelize, Postgres, MongoDB, Redis, Multer
 Use the package manager [yarn](https://yarnpkg.com/getting-started/install) to install.
 
 Use git to get the project [git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
-
-## Usage
-
-```bash
-pip install foobar
-```
 
 
 ## Contributing
