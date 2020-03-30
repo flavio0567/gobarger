@@ -11,5 +11,33 @@ Node.js, ReactJS, React Native, Postgres, Sequelize.
 
 Project created to develop new skills with the most current and incredible technologies. This project includes: authentication, authentication middleware, validations, exception handling, sending files (avatar), pagination, sending emails, notifications, unit tests and integrated tests.
 
+Node.js. ReactJS, React Native, JWT, Sequelize, Postgres, MongoDB, Redis, Multer, Nodemailer, React Hooks, Redux, Redux-Saga, Reactotron, Jest, Supertest. 
 
-Node.js. ReactJS, React Native, JWT, Sequelize, Postgres, MongoDB, Redis, Multer, Nodemailer, React Hooks, Redux, Redux-Saga, Reactotron, Jest. 
+
+## Installation
+
+Use the package manager [yarn](https://yarnpkg.com/getting-started/install) to install.
+
+Use git to get the project [git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+
+## Usage
+
+```bash
+pip install foobar
+```
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Contact
+
+Discord
+flavio_rocha#4046
